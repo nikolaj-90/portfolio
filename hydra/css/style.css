@@ -931,7 +931,7 @@ body {
       align-self: end;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (auto)[3];
+/*  -ms-grid-columns: (auto)[3];*/
   grid-template-columns: repeat(3, auto);
   position: relative;
   z-index: 2;
